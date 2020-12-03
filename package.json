@@ -1,0 +1,17 @@
+{
+  "name": "gostack-desafio-conceitos-nodejs",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/moisesmagno/gostack-desafio-conceitos-nodejs.git",
+  "author": "Moisés Escurra <moisesmagno@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "yarn nodemon"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
